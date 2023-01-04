@@ -68,3 +68,37 @@ div{
     cursor:pointer;
     transition: 1.5s;
 }
+
+.rangeCenter{
+    width:230px;
+    height:15px;
+    margin-left:20px;
+    border-radius:50%;
+    
+}
+
+.time{
+    padding-right:20px;
+    padding-left:20px;
+    color:white;
+}
+
+button {
+    margin-top:20px;
+    margin-right: 16px; 
+    border-color: #ffffff; 
+    width: 45px;
+    height: 45px;
+    border-radius:50%;
+}
+
+li{
+    display:inline;
+}
+
+
+.back:hover,
+.for:hover,
+.play:hover{
+    border-color: #bebebe;
+}
